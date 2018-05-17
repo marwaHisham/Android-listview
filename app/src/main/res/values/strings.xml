@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">listapp</string>
+    <string name="title_activity_custom_row">custom_row</string>
+    <string name="title_activity_single_row">single_row</string>
+</resources>
